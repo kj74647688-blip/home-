@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA – Official Promotional Website",
+  "description": "Premium promotional and advertising website for NEXORA, the all-in-one social media platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
